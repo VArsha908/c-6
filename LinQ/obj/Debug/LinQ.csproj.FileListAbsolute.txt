@@ -1,0 +1,7 @@
+C:\Users\varsha\Desktop\c#\LinQ\LinQ\obj\Debug\LinQ.csprojAssemblyReference.cache
+C:\Users\varsha\Desktop\c#\LinQ\LinQ\obj\Debug\LinQ.csproj.CoreCompileInputs.cache
+C:\Users\varsha\Desktop\c#\LinQ\LinQ\bin\Debug\LinQ.exe.config
+C:\Users\varsha\Desktop\c#\LinQ\LinQ\bin\Debug\LinQ.exe
+C:\Users\varsha\Desktop\c#\LinQ\LinQ\bin\Debug\LinQ.pdb
+C:\Users\varsha\Desktop\c#\LinQ\LinQ\obj\Debug\LinQ.exe
+C:\Users\varsha\Desktop\c#\LinQ\LinQ\obj\Debug\LinQ.pdb
