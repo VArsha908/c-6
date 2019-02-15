@@ -90,7 +90,7 @@ namespace LinQ
                 foreach (var details in data)
                 {
                     Console.WriteLine("The details of the second oldest employee are :");
-                    Console.WriteLine(" " + details.EmployeeFirstName + " " + details.EmployeeLastName + " Id:" + details.EmployeeID + " Total Salary:" + details.Amount + " Age:" + details.Age + " Type of salary:" + details.Type);
+                    Console.WriteLine("Name:" + details.EmployeeFirstName + " " + details.EmployeeLastName + " Id:" + details.EmployeeID + " Total Salary:" + details.Amount + " Age:" + details.Age + " Type of salary:" + details.Type);
                 }
             }
         }
